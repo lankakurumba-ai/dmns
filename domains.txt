@@ -704,6 +704,7 @@ alfapeople.alfabank.ru
 alfateam.alfabank.ru
 algom.gitlab.yandexcloud.net
 algorithm.contest.yandex.ru
+alibabadns.com
 alice.ott.yandex.net
 alice.sip.yandex.net
 alice.smarttv.yandex.net
