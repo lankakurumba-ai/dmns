@@ -1,3 +1,10 @@
+# Aqara
 *.ankasa.cn
 *.aqara.cn
 *.aqara.com
+
+# Кинопоиск
+*.yandex.ru
+*.yandex.net
+*.yastatic.net
+*.yandexcloud.net
