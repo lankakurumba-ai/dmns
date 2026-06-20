@@ -17,6 +17,8 @@ aliyun.com
 mpush-api.aliyun.com
 taobao.com
 
+119.29.87.195
+
 #Кинопоиск
 yandex.ru
 yandex.net
