@@ -9724,6 +9724,7 @@ mpps.mosreg.ru
 mpru.mosreg.ru
 mptracker.mts.ru
 mpurga.18.mvd.ru
+mpush-api.aliyun.com
 mq.test-cvpz.mos.ru
 mq.test-pdp.mos.ru
 mqtt.sw.mts.ru
