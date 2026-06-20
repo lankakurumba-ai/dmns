@@ -37,7 +37,6 @@
 11.img.avito.st
 11.mvd.ru
 112.mosreg.ru
-119.29.87.195
 12.img.avito.st
 12.melon.aliexpress.ru
 12.mvd.ru
@@ -226,6 +225,7 @@
 45.mvd.ru
 46.img.avito.st
 46.mvd.ru
+47.101.29.75
 47.img.avito.st
 48.img.avito.st
 48.mvd.ru
