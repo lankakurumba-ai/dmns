@@ -646,6 +646,7 @@ ailine1.gitlab.yandexcloud.net
 aim.account.prod.erm.2gis.ru
 aim.api.prod.erm.2gis.ru
 aim.prod.erm.2gis.ru
+aiot-rpc.ankasa.cn
 air-soft.gitlab.yandexcloud.net
 air.yandex.ru
 airbyte-weban.megafon.ru
