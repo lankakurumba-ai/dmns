@@ -5,6 +5,7 @@ aqara.cn
 aqara.com
 aliyun.com
 mpush-api.aliyun.com
+taobao.com
 
 #Кинопоиск
 yandex.ru
