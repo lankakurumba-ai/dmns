@@ -1,0 +1,37 @@
+name: Update VPN domains
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download and merge domains
+        run: |
+          curl -fsSL "https://russia.iplist.opencck.org/?format=text&data=domains" -o opencck.txt
+
+          cat opencck.txt custom-domains.txt \
+            | sed 's/\r$//' \
+            | sed '/^\s*$/d' \
+            | sed '/^\s*#/d' \
+            | tr '[:upper:]' '[:lower:]' \
+            | sort -u \
+            > domains.txt
+
+      - name: Commit updated domains.txt
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add domains.txt
+          git diff --cached --quiet || git commit -m "Update domains list"
+          git push
