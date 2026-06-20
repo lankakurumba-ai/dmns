@@ -4,6 +4,7 @@ aiot-rpc.ankasa.cn
 aqara.cn
 aqara.com
 aliyun.com
+mpush-api.aliyun.com
 
 #Кинопоиск
 yandex.ru
