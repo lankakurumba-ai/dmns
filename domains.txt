@@ -717,6 +717,7 @@ aliexpress.ru
 aliexpress.rupc29.melon.aliexpress.ru
 aligateway.tst.vs.market.yandex.net
 aligateway.vs.market.yandex.net
+aliyun.com
 allaccount.2gis.ru
 alles-good.gitlab.yandexcloud.net
 allies.gitlab.yandexcloud.net
