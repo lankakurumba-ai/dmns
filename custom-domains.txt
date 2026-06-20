@@ -15,6 +15,7 @@ aqara.com
 
 aliyun.com
 mpush-api.aliyun.com
+alibabadns.com
 taobao.com
 
 47.101.29.75
