@@ -646,6 +646,7 @@ ailine1.gitlab.yandexcloud.net
 aim.account.prod.erm.2gis.ru
 aim.api.prod.erm.2gis.ru
 aim.prod.erm.2gis.ru
+aiot-coap.aqara.cn
 aiot-rpc.ankasa.cn
 air-soft.gitlab.yandexcloud.net
 air.yandex.ru
@@ -3131,6 +3132,7 @@ cmxivbes.mcp.apigw.yandexcloud.net
 cnc-stage.bookalook.edadeal.yandex.net
 cnt-vpn.megafon.ru
 cnt.sputnik.ru
+coap-ru.aqara.com
 coapi.myoffice.sberbank.ru
 cobhr.dt.mvd.ru
 cobma.mail.ru
@@ -10678,6 +10680,8 @@ opc-maket-ib.soctech.mos.ru
 opc-vodokanal.mts.ru
 opc.vodokanal.mts.ru
 opeka.mosreg.ru
+open-cn.aqara.com
+open-ru.aqara.com
 open.api.sberbank.ru
 open.api.vtb.ru
 open.callback.trust.test.yandex.net
@@ -13988,6 +13992,7 @@ rp-demo.mts.ru
 rp.megafon.ru
 rp.vkusvill.ru
 rpa01.cloud.mts.ru
+rpc-ru.aqara.com
 rpc.alice.yandex.net
 rpc.alice.yandex.ru
 rpp.mos.ru
