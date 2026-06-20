@@ -3,6 +3,7 @@ ankasa.cn
 aiot-rpc.ankasa.cn
 aqara.cn
 aqara.com
+aliyun.com
 
 #Кинопоиск
 yandex.ru
