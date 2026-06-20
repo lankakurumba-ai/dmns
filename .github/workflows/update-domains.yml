@@ -1,8 +1,12 @@
 name: Update VPN domains
 
 on:
+  push:
+    paths:
+      - custom-domains.txt
+
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
