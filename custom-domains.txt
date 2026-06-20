@@ -1,0 +1,3 @@
+*.ankasa.cn
+*.aqara.cn
+*.aqara.com
