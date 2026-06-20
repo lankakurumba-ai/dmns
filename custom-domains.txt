@@ -1,5 +1,6 @@
 #Aqara
 ankasa.cn
+aiot-rpc.ankasa.cn
 aqara.cn
 aqara.com
 
