@@ -1,10 +1,3 @@
-*.ankasa.cn
-*.aqara.cn
-*.aqara.com
-*.yandex.net
-*.yandex.ru
-*.yandexcloud.net
-*.yastatic.net
 00.img.avito.st
 0000metriweb01.mts.ru
 0000trueconf01.mts.ru
@@ -807,6 +800,7 @@ android-developer-wanted.2gis.ru
 android-us.apps.yandex.ru
 anfefilov-vm.vm.tetrika-school.ru
 ank.mosreg.ru
+ankasa.cn
 anketa-hr.mts.ru
 anketa.alfabank.ru
 anketa.mtp.mos.ru
@@ -1295,6 +1289,8 @@ apteka.magnit.ru
 apteki.medsi.ru
 apteki.yandex.ru
 apthw.2gis.ru
+aqara.cn
+aqara.com
 aqkd4clz.apigw.yandexcloud.net
 aqkd4clz.mcp.apigw.yandexcloud.net
 ar-test.mos.ru
@@ -19734,4 +19730,4 @@ zvezdy-2026.magnit.ru
 zvonok.uchi.ru
 zvyagin.gitlab.yandexcloud.net
 zz.vkusvill.ru
-zzz.qa.mdrive.magnit.ru# aqara
+zzz.qa.mdrive.magnit.ru#aqara
