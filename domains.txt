@@ -17226,6 +17226,8 @@ tvoy.magnit.ru
 tvoyfintech.online-chat.mts.ru
 tvpaysys.mts.ru
 tvr.vkusvill.ru
+twinby-rk.storage.yandexcloud.net
+twinby.ru
 twork-learn.tbank.ru
 twork.edu.tbank.ru
 txtdsgn.gitlab.yandexcloud.net
@@ -19238,6 +19240,7 @@ www.tv.yandex.ru
 www.tver.hh.ru
 www.tver.mts.ru
 www.tvoy.magnit.ru
+www.twinby.ru
 www.tyumen.mts.ru
 www.tyva.mts.ru
 www.uchebnik.mos.ru
