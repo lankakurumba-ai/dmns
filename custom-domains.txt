@@ -28,3 +28,4 @@ yandexcloud.net
 
 #Авторусь
 autorus.ru
+www.autorus.ru
