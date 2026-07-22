@@ -1674,6 +1674,7 @@ autopolza.t2.ru
 autoru.static-storage.net
 autoru.yandex.ru
 autorun.melon.aliexpress.ru
+autorus.ru
 autosite.web-staging.2gis.ru
 autotest.ag.mos.ru
 autotest.cms.ag.mos.ru
