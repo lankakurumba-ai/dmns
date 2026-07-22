@@ -25,3 +25,6 @@ yandex.ru
 yandex.net
 yastatic.net
 yandexcloud.net
+
+#Авторусь
+autorus.ru
