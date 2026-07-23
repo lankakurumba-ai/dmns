@@ -6605,7 +6605,6 @@ gramota.yandex.ru
 gramotno.yandex.ru
 grampus-int.alfabank.ru
 grants.mos.ru
-graph.microsoft.com
 graphql-smarttv.kinopoisk.ru
 graphql-smarttv.kp.yandex.ru
 graphql-web.kinopoisk.ru
