@@ -29,6 +29,3 @@ yandexcloud.net
 #Авторусь
 autorus.ru
 www.autorus.ru
-
-#One drive для obsidian
-graph.microsoft.com
