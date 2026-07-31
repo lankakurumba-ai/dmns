@@ -4524,7 +4524,6 @@ efficiency.mos.ru
 eg.msr.mosreg.ru
 eg.yandex.ru
 ege.yandex.ru
-ege.yandex.ru 
 egfdm-test.mos.ru
 egfdm.mos.ru
 eggs-game.magnit.ru
@@ -16876,7 +16875,7 @@ tib.test.kbs.mts.ru
 tibtest.t2.ru
 ticket.gitlab.yandexcloud.net
 ticket.rzd.ru
-ticket.yandex.ru 
+ticket.yandex.ru
 tickets-external.mos.ru
 tickets.mos.ru
 tickets.ozon.ru
