@@ -33,3 +33,7 @@ www.autorus.ru
 
 #Onedrive для Obsidian
 graph.microsoft.com
+
+#Kontur talk
+ktalk.ru
+ktalk.host
