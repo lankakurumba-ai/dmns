@@ -1,9 +1,9 @@
-name: Update VPN domains
+name: Update VPN ru domains
 
 on:
   push:
     paths:
-      - custom-domains.txt
+      - custom_ru_domains.txt
 
   schedule:
     - cron: "0 * * * *"
@@ -21,9 +21,9 @@ jobs:
 
       - name: Download and merge domains
         run: |
-          curl -fsSL "https://russia.iplist.opencck.org/?format=text&data=domains" -o opencck.txt
+          curl -fsSL "https://russia.iplist.opencck.org/?format=text&data=domains" -o ru_domains_opencck.txt
 
-          cat opencck.txt custom-domains.txt \
+          cat ru_domains_opencck.txt custom_ru_domains.txt \
             | sed 's/\r$//' \
             | sed '/^\s*$/d' \
             | sed '/^\s*#/d' \
@@ -31,7 +31,7 @@ jobs:
             | sort -u \
             > domains.txt
 
-      - name: Commit updated domains.txt
+      - name: Commit updated ru domains.txt
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
