@@ -8139,6 +8139,8 @@ kstr.dev.home.megafon.ru
 kstr.home.megafon.ru
 ksv.18.mvd.ru
 kt.reb.mosreg.ru
+ktalk.host
+ktalk.ru
 ktc.mosreg.ru
 ktogde.mts.ru
 ktozvonit.beeline.ru
