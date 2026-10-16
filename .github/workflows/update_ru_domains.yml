@@ -31,7 +31,7 @@ jobs:
             | sort -u \
             > domains.txt
 
-      - name: Commit updated ru domains.txt
+      - name: Commit updated ru ru_domains.txt
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
