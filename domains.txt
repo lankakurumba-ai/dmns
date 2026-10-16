@@ -19748,4 +19748,4 @@ zvezdy-2026.magnit.ru
 zvonok.uchi.ru
 zvyagin.gitlab.yandexcloud.net
 zz.vkusvill.ru
-zzz.qa.mdrive.magnit.ru#aqara
+zzz.qa.mdrive.magnit.ru
