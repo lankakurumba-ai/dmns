@@ -2374,7 +2374,7 @@
 59.153.64.0/18
 59.160.0.0/11
 60.0.0.0/8
-607:f8b0:4001:c0a::/64
+607:f8b0:4001:c0a::/64vdsina.com
 61.0.0.0/13
 61.128.0.0/9
 61.16.0.0/12
@@ -2691,9 +2691,11 @@ acs-fallback.whatsapp.com
 acs.whatsapp.com
 admin.youtube.com
 ads.youtube.com
+aeza.net
 agents.ton.org
 ai.ytimg.com
 alpha.whatsapp.com
+amnezia.org
 analytics.ton.org
 analytics.x.com
 analytics.youtube.com
@@ -21002,6 +21004,7 @@ sonar.fzag3-1.fna.whatsapp.net
 sonar.fzih1-1.fna.whatsapp.net
 sonar.fzmm1-1.fna.whatsapp.net
 sora.chatgpt.com
+speedtest.net
 spinningup.openai.com
 sro.whatsapp.net
 stage.pay.ton.org
