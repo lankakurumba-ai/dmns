@@ -25,7 +25,7 @@ jobs:
           curl -fsSL "https://iplist.opencck.org/?format=text&data=cidr4&site=claude.ai&site=chatgpt.com&site=youtube.com&site=miro.com&site=telegram.org&site=netflix.com&site=medium.com&site=instagram.com&site=linkedin.com&site=x.com&site=4pda.to&site=meduza.io&site=filmitorrent.net&site=rutor.info&site=rutracker.org&site=whatsapp.com" -o nonru_cidr4_opencck.txt
           curl -fsSL "https://iplist.opencck.org/?format=text&data=cidr6&site=claude.ai&site=chatgpt.com&site=youtube.com&site=miro.com&site=telegram.org&site=netflix.com&site=medium.com&site=instagram.com&site=linkedin.com&site=x.com&site=4pda.to&site=meduza.io&site=filmitorrent.net&site=rutor.info&site=rutracker.org&site=whatsapp.com" -o nonru_cidr6_opencck.txt
 
-          cat nonru_domains_opencck.txt nonru_cidr4_opencck.txt nonru_cidr6_opencck.txt custom_nonru_domains.txt \
+          awk '1' nonru_domains_opencck.txt nonru_cidr4_opencck.txt nonru_cidr6_opencck.txt custom_nonru_domains.txt \
             | sed 's/\r$//' \
             | sed '/^\s*$/d' \
             | sed '/^\s*#/d' \
