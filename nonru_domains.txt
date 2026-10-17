@@ -1,3 +1,4 @@
+1.192.0.0/10
 1.37.0.0/16
 1.38.0.0/16
 1.54.0.0/16
@@ -898,6 +899,7 @@
 200.72.0.0/13
 200.80.0.0/12
 200.96.0.0/11
+2001:1291::/32
 2001:12e0::/32
 2001:1308::/32
 2001:1330::/30
@@ -2374,7 +2376,7 @@
 59.153.64.0/18
 59.160.0.0/11
 60.0.0.0/8
-607:f8b0:4001:c0a::/64vdsina.com
+607:f8b0:4001:c0a::/64
 61.0.0.0/13
 61.128.0.0/9
 61.16.0.0/12
@@ -2669,7 +2671,7 @@
 98.80.0.0/12
 99.80.0.0/15
 99.84.0.0/16
-99.86.0.0/162001:1291::/32
+99.86.0.0/16
 _domainkey.youtube.com
 a-api.anthropic.com
 a-cdn.anthropic.com
@@ -21118,6 +21120,7 @@ v6.cache1.c.youtube.com
 v6.lscache1.c.youtube.com
 v7.cache1.c.youtube.com
 v8.cache1.c.youtube.com
+vdsina.com
 verifier-mainnet.ton.org
 verifier-testnet.ton.org
 verifier.ton.org
@@ -21682,4 +21685,4 @@ yt4.ggpht.com
 ytimg.com
 ytimg.l.google.comr1---sn-u0g3uxax3-xncz.googlevideo.com
 z-p42-chat-e2ee-ig.facebook.com
-za.youtube.com1.192.0.0/10
+za.youtube.com
