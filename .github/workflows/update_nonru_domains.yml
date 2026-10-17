@@ -3,7 +3,7 @@ name: Update non-RU VPN domains
 on:
   push:
     paths:
-      - nonru_custom_domains.txt
+      - custom_nonru_domains.txt
 
   schedule:
     - cron: "0 * * * *"
