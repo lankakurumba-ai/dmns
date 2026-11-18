@@ -5,3 +5,4 @@ speedtest.net
 unity.com
 udemy.com
 cloudflare.com
+nexnodo.com
