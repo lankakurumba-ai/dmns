@@ -6,3 +6,6 @@ unity.com
 udemy.com
 cloudflare.com
 nexnodo.com
+notion.com
+notion.so
+notion.app
