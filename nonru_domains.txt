@@ -5206,6 +5206,9 @@ nmedia.fzty2-1.fna.whatsapp.net
 no.youtube.com
 notifications-overlay.svc.miro.com
 notifications-pa.googleapis.com
+notion.app
+notion.com
+notion.so
 ns1.p13.dynect.net
 ns2.p13.dynect.net
 ns3.p13.dynect.net
